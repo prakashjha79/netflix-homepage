@@ -68,6 +68,7 @@ body{
 .nav_logo {
     width: 80px;
     object-fit: contain;
+    margin-left: 100px;
 
 }
 
